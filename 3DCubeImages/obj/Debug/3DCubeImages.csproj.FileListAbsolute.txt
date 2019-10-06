@@ -1,0 +1,30 @@
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\bin\Debug\3DCubeImages.exe.config
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\bin\Debug\3DCubeImages.exe
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\bin\Debug\3DCubeImages.pdb
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.csprojAssemblyReference.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\MainWindow.g.cs
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\App.g.cs
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages_MarkupCompile.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages_MarkupCompile.lref
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\MainWindow.baml
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.g.resources
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\_3DCubeImages.Properties.Resources.resources
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.csproj.GenerateResource.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.csproj.CoreCompileInputs.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.exe
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.pdb
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\bin\Debug\3DCubeImages.exe.config
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\bin\Debug\3DCubeImages.exe
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\bin\Debug\3DCubeImages.pdb
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.csprojAssemblyReference.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\MainWindow.g.cs
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\App.g.cs
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages_MarkupCompile.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages_MarkupCompile.lref
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\MainWindow.baml
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.g.resources
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\_3DCubeImages.Properties.Resources.resources
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.csproj.GenerateResource.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.csproj.CoreCompileInputs.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.exe
+C:\Users\babi4\OneDrive\Рабочий стол\Complete Personal Project\3DCubeImages\3DCubeImages\obj\Debug\3DCubeImages.pdb
